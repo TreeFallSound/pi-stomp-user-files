@@ -1,2 +1,2 @@
 # pi-stomp-user-files
-A curated set of files (amp models, cabinets, etc.) for good out-of-box experience
+A curated set of files (amp models, cabinets, etc.) for bitchin out-of-box experience
